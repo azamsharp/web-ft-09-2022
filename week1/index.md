@@ -1,29 +1,6 @@
 # Week 1 
 
 ## Day 1 
-
-### Learning Objectives 
-
-After completing this lesson, you will be able to:
-
-- Run basic command-line commandsNavigate your file system through the command-line interface
-- Explain the purpose of version control
-- Explain the purpose of a repository
-- Initialize a local Git repository
-- Commit a set of changes to an existing repository
-- Write a commit message
-- Execute git logging, status commands
-- Create a remote repository on Github
-- Push a local Git repository to Github
-- Clone a Github repository to your local computer
-- Explain the architecture of Git
--  Discuss the difference between Git and Github
-
-### Pre-Reading 
-- [Setting up your Dev Environment](https://learn.digitalcrafts.com/immersive/lessons/dev-fundamentals/setup/)
-- [The Command Line Interface (CLI)](https://learn.digitalcrafts.com/immersive/lessons/dev-fundamentals/cli-101/)
-- [Git 101](https://learn.digitalcrafts.com/immersive/lessons/dev-fundamentals/git-101/#learning-objectives)
-
 ---
 
 - [CLI Exercises](https://learnpythonthehardway.org/book/appendixa.html)
@@ -47,19 +24,6 @@ After completing this lesson, you will be able to:
 
 ## Day 2
 
-Learning Objectives
-After completing this section, you'll be able to:
-
-- Create programs in your text editor and run them in the terminal
-- Use variables to keep track of values in your program
-- Print and format strings
-
-### Pre-Reading
-- [Python101](https://learn.digitalcrafts.com/immersive/lessons/solving-problems-using-code/intro-to-python/#learning-objectives)
-
----
-
-- [Objectives and Learning Portal Resources](day2/objectives-and-learning-portal.md)
 - [Activity 1 - String Interpolation](day2/activities/string-interop.md)
 - [Activity 2 - Vowel](day2/activities/vowel.md)
 - [Activity 3 - Tip Calculator](day2/activities/tip-calculator.md))
@@ -71,17 +35,6 @@ After completing this section, you'll be able to:
 
 ## Day 3 
 
-Daily Goals: 
-- Use loops to repeat blocks of code
-- Use conditionals to choose what blocks of code to run
-- Handle errors and exceptions
-
-### Pre-Reading
-- [Python101](https://learn.digitalcrafts.com/immersive/lessons/solving-problems-using-code/intro-to-python/#how-do-i-make-choices-based-on-the-user-s-input)
-
----
-
-- [Objectives and Learning Portal Resources](day3/learning-portal-and-objectives.md)
 - [Python Practice Exercises 1](https://www.practicepython.org/exercises/)
 - [Python Practice Exercises 2](https://www.w3resource.com/python-exercises/)
 - [Activity 1 - Loop](day3/activities/hello-loops.md)
@@ -95,18 +48,8 @@ Daily Goals:
 --- 
 ## Day 4 
 
-Learning Objectives:
-- Create Lists, Tuples, and ranges
-- Use indexing to access individual locations in a sequence
-- Convert between Strings and Lists
-- Iterate through sequences using for-loops
-
-### Pre-Reading
-- [Python102](https://learn.digitalcrafts.com/immersive/lessons/solving-problems-using-code/sequences/#lesson)
-
 ---
 
-- [Objectives and Learning Portal Resources](day4/objectives-and-learning-portal.md)
 - [Activity 1 - Creating a Dictionary](day4/activities/creating-a-dictionary.md) 
 - [Activity 2 - Nested Dictionaries](day4/activities/nested-dictionaries.md) 
 - [Activity 3 - Multi Nested Dictionary Based on JSON Structore](day4/activities/multi-nested-dict-json-structure.md) 
@@ -119,17 +62,8 @@ Learning Objectives:
 
 ## Day 5
 
-- Learning Goals:
-- Organize code into functions
-- Use functions for encapsulation and abstraction
-- Reduce repetition of code
-
-### Pre-Reading:
- -[Functions](https://learn.digitalcrafts.com/immersive/lessons/solving-problems-using-code/functions/#learning-objectives)
-
 ---
 
-- [Objectives and Learning Portal Resources](day5/activities/learning-portal-and-objectives.md)
 - [Python Modules](https://www.geeksforgeeks.org/python-modules/)
 - [Git Book](https://git-scm.com/book/en/v2)
 - [Activity 1 - Bubble Sort](day5/activities/bubble-sort.md)

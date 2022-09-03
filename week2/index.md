@@ -1,21 +1,7 @@
 # Week 2 
 
 ## Day 1 
-
-### Learning Objectives:
-- Create classes.
-- Instantiate objects with constructors.
-- Customize classes with properties and methods.
-- Extend base classes and overrides method in subclasses.
-
 ---
-
-### Pre-Reading: 
-
-- [Object-Oriented and Class-Based Programming](https://learn.digitalcrafts.com/immersive/lessons/solving-problems-using-code/object-oriented-programming/#learning-objectives)
----
-
-- [Learning Objectives and Platform Links](day1/learning-objectives-and-platform.md)
 - [Activity - Table Class](day1/activities/table.md)
 - [Activity 1 - User and Address](day1/activities/user-and-address.md)
 - [Activity 2 - Bank Account](day1/activities/bank-account.md)
@@ -29,21 +15,7 @@
 
 ## Day 2
 
-### Learning Objectives:
-- Get comfortable modifying Classes to include submethods and subclasses.
-- Use multiple data types to 'describe' an Object.
-- Choose which data type fits each function demand best.
-
----
-
-### Pre-Reading: 
-
-- [Object-Oriented and Class-Based Programming](https://learn.digitalcrafts.com/immersive/lessons/solving-problems-using-code/object-oriented-programming/#learning-objectives)
 - [Python Data Types](https://learn.digitalcrafts.com/immersive/lessons/solving-problems-using-code/intro-to-python/#what-are-the-essential-elements-of-programming)
-
----
-
-- [Learning Objectives and Platform Links](day2/learning-objectives-and-portal.md)
 - [Activity 1 - Exceptions](day2/activities/exceptions.md) 
 - [Activity 2 - Calculator Unit Tests](day2/activities/calculor-unit-tests.md) 
 - [Activity 3 - Palindrome Unit Tests](day2/activities/palindrome-unit-tests.md) 
@@ -57,19 +29,6 @@
 ---
 
 ## Day 3 
-
-### Today's Goals:
-* Get comfortable using loops to cycle through inputs
-* Use files as both inputs and outputs for your code
-* Ask users for input directly.
----
-
-### Pre-Reading:
-- [The Three Parts of A Loop](https://learn.digitalcrafts.com/immersive/lessons/solving-problems-using-code/intro-to-python/#how-do-i-repeat-a-piece-of-code-over-and-over)
-- [Reading and Writing Files with Code](https://learn.digitalcrafts.com/immersive/lessons/solving-problems-using-code/mapping/#how-do-i-save-to-a-file)
----
-
-- [Learning Objectives and Platform Links](day3/learning-objectives-and-portal.md)
 - [Activity 1 - Write name to a file](day3/activities/write-name-file.md)
 - [Activity 2 - Appending to a file](day3/activities/append-file.md)
 - [Activity 3 - Reading from a file](day3/activities/read-file.md) 
@@ -79,20 +38,7 @@
 
 --- 
 ## Day 4 
-
-### Daily Goals: 
-Store and manipulate data in the form of key/value pairs
-Save and load binary data from files.
-Convert dictionaries to/from JSON
-
 ---
-
-### Pre-Reading
-- [Mapping: Dictionaries and File I/O](https://learn.digitalcrafts.com/immersive/lessons/solving-problems-using-code/mapping/#learning-objectives)
-
----
-
-- [Learning Objectives and Platform Links](day4/learning-objectives-and-platform.md)
 - [Activity 1 - Writing JSON File](day4/activities/writing-json-file.md)
 - [Activity 2 - Reading JSON File](day4/activities/reading-json-file.md)
 - [Activity 3 - Reading Movies](day4/activities/reading-movies.md)
@@ -102,15 +48,6 @@ Convert dictionaries to/from JSON
 ---
 
 ## Day 5
-
-### Daily Goals:
-* Get introduced to/comfortable with the idea of algorithm exercises.
----
-
-### Extra Reading:
-* Sign up for a code challenge online, like Advent of Code!
-
-- [Learning Objectives and Platform Links](day5/learning-goals-and-platform.md)
 - [Activity 1 - Bubble Sort](day5/activities/bubble-sort.md)
 - [Activity 2 - Stack](day5/activities/stack.md)
 - [Activity 3 - Queue](day5/activities/queue.md)
