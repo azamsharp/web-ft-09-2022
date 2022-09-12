@@ -1,6 +1,7 @@
 # web-ft-09-2022
 
 Class Zoom: https://bit.ly/3JRnYaM
+
 Class Recordings: https://docs.google.com/spreadsheets/d/1yWiLYC6Qr7QRQVXUDlnDFh6RzpNbaQ0lm2D1M6eXksA/edit#gid=0 
 
 Psw: builder
