@@ -30,6 +30,7 @@
 - [Assignment - Calculator, Even/Odd, FizzBuz](day2/assignments/calc.md)
 - [Python Additional Exercises](https://learnpythonthehardway.org/book/)
 - [Class Code](day2/code-downloads/hello-python.zip)
+- [Class Code 09-13-2022](https://gist.github.com/azamsharp/e1f48da3ab3c1cbfd453dbe407e53a16)
 
 ---
 
