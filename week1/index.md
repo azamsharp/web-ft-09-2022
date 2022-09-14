@@ -45,6 +45,7 @@
 - [Assignment - Factorial, Palindrome, Prime or NOT](day3/assignments/factorial.md)
 - [Optional - List Exercises](day3/assignments/optional-list-exercises.md) 
 - [Class Code](day3/code-downloads/loops-arrays.zip)
+- [Class Code 09-14-2022](https://gist.github.com/azamsharp/741fcd6305446228d695ef02268f3d5e)
 
 --- 
 ## Day 4 
