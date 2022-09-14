@@ -1,7 +1,7 @@
 
 # Assignment:  Factorial 
 
-Assignment 1 - Write an app which asks users for the input and then prints the factorial for that number. 
+Assignment 1 - Write an app which asks users for a number input and then prints the factorial for that number. 
 
 ----------------------------------------------------------
 
