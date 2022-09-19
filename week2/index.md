@@ -9,6 +9,7 @@
 - [Understanding Classes and Objects](https://www.dummies.com/programming/java/understanding-classes-and-objects/)
 - [Class Code](day1/code-downloads/classes_and_objects.zip)
 - [Class Code - 07-12-2021](day1/code-downloads/LearnClasses.zip)
+- [Class Code - 09-19-2022](https://gist.github.com/azamsharp/ae761b3066295d03a1184a1074a6ebd8)
 
 
 --- 
