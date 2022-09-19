@@ -25,3 +25,7 @@ Paper, Napkins, Plate, Chips
 Sams Club 
 
 Chicken, Beef, Eggs, Sugar, Salt, Pepper, Honey 
+
+Classes you will need 
+ShoppingList or GroceryList  
+GroceryItem 
