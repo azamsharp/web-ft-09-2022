@@ -34,7 +34,7 @@
 - [Activity 2 - Appending to a file](day3/activities/append-file.md)
 - [Activity 3 - Reading from a file](day3/activities/read-file.md) 
 - [Activity 4 - Remove Duplicate Emails from Email List](day3/activities/remove-dup-emails-from-list.md)
-- [Pool Table Project - Multi Day Project - Due 07/16/2020 @ 4:00 PM CST](day3/assignments/pool-table-app.md)
+- [Pool Table Project - Multi Day Project - Due 09/23/2022 @ 4:00 PM CST](day3/assignments/pool-table-app.md)
 - [Class Code](day3/code-downloads/writing-files.zip)
 
 --- 
