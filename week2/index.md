@@ -25,6 +25,7 @@
 - [Assignment - Exception Handling and Unit Tests for Grocery App](day2/assignments/exception-handling-grocery-app.md) 
 - [Class Code](day2/code-downloads/unittest-exceptions.zip)
 - [Class Code - 07-13-2021](day2/code-downloads/unit-testing-exceptions.zip)
+- [Class Code - 09-20-2022](https://gist.github.com/azamsharp/98fc92dcf2fc75ad3d782a1442735be6)
 
 
 ---
