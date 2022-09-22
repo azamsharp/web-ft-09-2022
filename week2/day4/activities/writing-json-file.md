@@ -1,7 +1,7 @@
 
 # Activity - Writing JSON File
 
-1) Create an application where you will ask the user their name and age, when they enter their name you will create a JSON document (person.json) which looks like this: 
+1) Create an application where you will ask the user their name and age, when they enter their name and age you will create a JSON document (person.json) which looks like this: 
 
 ```
 {
