@@ -59,6 +59,7 @@
 - [Python Algorithm Exercises](day5/activities/python_algos.md)
 - [More Algorithms](day5/code-downloads/pythonAlgos.zip)
 - [Class Code](day5/code-downloads/friday-02-12-2021.zip)
+- [Class code (09-23-2022)](https://gist.github.com/azamsharp/760f8c7603593e7c18bc6c373fa8fffe)
 
 
 
