@@ -11,11 +11,6 @@
 4. Create reducer functions that apply changes to a copy of your state.
 5. Create and use a Redux store, which manages state using actions and reducer
 
-### Pre-Reading
-- [Learning Portal - Redux](https://learn.digitalcrafts.com/immersive/lessons/full-stack-frameworks/intro-to-redux/#learning-objectives)
-- [Learning Portal - Connecting Redux to React](https://learn.digitalcrafts.com/immersive/lessons/full-stack-frameworks/react-redux-intro/#learning-objectives)
-#
-
 - [Redux Flow Diagram](day1/images/redux-image.png) 
 - [Redux Videos](https://www.youtube.com/playlist?list=PLDMXqpbtInQj_wOdK5et4cIS1OyLd7Zff)
 - [Assignment - Hello Redux](day1/assignments/redux-intro.001.jpeg) 
@@ -53,8 +48,6 @@
 2. Use Redux's combineReducers() to provide the store with a single Reducer
 3. Create Redux-specific files for organizing code for your Actions, Reducers, and Store
 
-### Pre-Reading
-- [Learning Portal - Multiple Reducers](https://learn.digitalcrafts.com/immersive/lessons/full-stack-frameworks/multiple-reducers/#learning-objectives)
 
 #
 - [Activity 1 - Multiple Reducers](day3/activities/mul-red.md)

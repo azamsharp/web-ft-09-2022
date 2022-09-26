@@ -8,12 +8,7 @@
 * Write and run JavaScript code in the browser console, in an HTML page, and in an external JavaScript file.
 * Understand the similarity and differences of JavaScript from Python
 
-### Learning Platform: 
-* [JavaScript 101](https://learn.digitalcrafts.com/immersive/lessons/handling-user-input/javascript-101/#overview)
-
 ---
-
--[Daily Goals and Links](day1/learning-goals.md)
 - [Activity 1 - Looping through Array](day1/activities/loop-array.md)
 - [Activity 2 - Sum of given integers](day1/activities/sum-of-int.md)
 - [Activity 3 - Vowel](day1/activities/vowel.md)
@@ -31,12 +26,7 @@
 * Create DOM elements nodes
 * Replace the text and innerHTML of a node element
 
-### Learning Platform:
-* [JavaScript 101](https://learn.digitalcrafts.com/immersive/lessons/handling-user-input/javascript-101/#overview)
-* [DOM101](https://learn.digitalcrafts.com/immersive/lessons/handling-user-input/dom-101/#lesson)
 ---
-
--[Daily Goals and Links](day2/daily-goals.md)
 - [Activity 1 - Full Name](day2/activities/full-name.md)
 - [Activity 2 - Red and Blue](day2/activities/red-and-blue.md)
 - [Activity 3 - Dynamically Create Image](day2/activities/image-dynamic.md)
@@ -51,12 +41,6 @@
 * Link the visual and programmatic elements of a website.
 * Learn how array helpers can make sorting data easier.
 
-### Learning Platform:
-
-* [Mapping Through JSON](https://learn.digitalcrafts.com/immersive/lessons/solving-problems-using-code/mapping/#what-is-json)
-* [Template Literals](https://learn.digitalcrafts.com/immersive/lessons/handling-user-input/javascript-101/#data-types)
-
--[Daily Goals and Links](day3/daily-goals.md)
 - [Activity 1 - Template Literals](day3/activities/temp-first-last.md)
 - [Activity 2 - Loop and Display all Posts](day3/activities/loop-and-posts.md)
 - [Activity 3 - Array Helpers](day3/activities/array-helpers.md)
@@ -71,13 +55,7 @@
 * Update your website based on user actions.
 * Pass data from JavaScript functions to HTML displays.
 
-### Learning Platform:
-* [How Do I Access Data in a Dictionary?](https://learn.digitalcrafts.com/immersive/lessons/solving-problems-using-code/mapping/#how-do-i-access-data-in-a-list-in-a-dictionary)
-* [Event Handling](https://learn.digitalcrafts.com/immersive/lessons/handling-user-input/handling-browser-events/#what-is-an-event-handler)
-
 ---
-
--[Daily Goals and Links](day4/daily-goals.md)
 - [Activity 1 - Timer](day4/activities/timer.md)
 - [Activity 2 - Stock Quotes](day4/activities/stocks.md)
 - [Activity 3 - Slideshow](day5/activities/slideshow.md)
@@ -91,11 +69,6 @@
 * Use built-in HTML5 form validation
 * Use JavaScript to do custom validation on HTML forms
 * Require a field
-
----
-
-### Pre-Reading:
-* [Form Validation](https://learn.digitalcrafts.com/immersive/lessons/handling-user-input/form-validation/#learning-objectives)
 
 ---
 

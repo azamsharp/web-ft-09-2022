@@ -11,11 +11,6 @@
 4. Send plain text and HTML Responses
 5. Organize your code as separate Node modules
 
-### Pre-Reading
-- [Learning Portal - Node 101](https://learn.digitalcrafts.com/immersive/lessons/back-end-foundations/node-101/#learning-objectives)
-- [Learning Portal - Express.js](https://learn.digitalcrafts.com/immersive/lessons/back-end-foundations/express-101/#learning-objectives)
-
-#
 
 - [Activity 1 - Hello Express](day1/activities/hello-express.md)
 - [Activity 2 - Route Parameters](day1/activities/route-params.md)
@@ -33,11 +28,6 @@
 3. Put placeholders for variables in a Template
 4. Create and reuse snippets of HTML in multiple Templates
 
-### Pre-Reading
-- [Learning Portal - Express Templating](https://learn.digitalcrafts.com/immersive/lessons/back-end-foundations/express-template-engine/#configuring-the-template-engine)
-
-#
-
 - [Activity 1 - Hello Server Side Pages](day2/activities/hello-ssp.md)
 - [Activity 2 - Passing Values to the Page](day2/activities/passing-values.md)
 - [Activity 3 - Submit Form](day2/activities/submit-form.md)
@@ -53,13 +43,6 @@
 1. Write functions that act as an "assembly line" for handling Requests and Responses
 2. Serve static assets using express.static
 
-
-### Pre-Reading
-- [Routing Cheat Sheet](https://github.com/dc-cefleet/04-2020-cohort/blob/master/express/Cheat-Sheet.md)
-- [Learning Portal - Routing](https://learn.digitalcrafts.com/immersive/lessons/back-end-foundations/express-101/#translating-to-express)
-
-#
-
 - [Activity 1 - Hello Router](day3/activities/hello-router.md)
 - [Activity 2 - Static Resources](day3/activities/static.md)
 - [Assignment - Movies Website](day3/assignments/movies.md)
@@ -68,10 +51,6 @@
 ---
 ## Day 4 
 
-### Pre-Reading
-[Sessions and Cookies](https://docs.google.com/presentation/d/1DTonPhwFF7kHuTpe0_MI8yC-qpqB8oBHjbsGh6yAfXI/edit#slide=id.p)
-
-#
 - [Activity 1 - Counter](day4/activities/counter.md)
 - [Activity 2 - Session](day4/activities/session.md)
 - [Assignment - Trips (Login and Register)](day4/assignments/trips.md)

@@ -17,18 +17,6 @@ React is a small but flexible front-end library that helps you create UIs. It is
 11. React Router
 12. Hooks
 
-### Pre-Reading
-- [Learning Portal - Create React App](https://learn.digitalcrafts.com/immersive/lessons/full-stack-frameworks/create-react-app/#learning-objectives)
-- [Learning Portal - Intro To React](https://learn.digitalcrafts.com/immersive/#_11-intro-to-react)
-- [Learning Portal - React DevTools](https://learn.digitalcrafts.com/immersive/lessons/full-stack-frameworks/react-devtools/#learning-objectives)
-- [Learning Portal - Building Stateful Components](https://learn.digitalcrafts.com/immersive/lessons/full-stack-frameworks/stateful-components/#learning-objectives)
-- [Learning Portal - Handling Events in React](https://learn.digitalcrafts.com/immersive/lessons/full-stack-frameworks/handling-events/#learning-objectives)
-- [Learning Portal - Form Components in React](https://learn.digitalcrafts.com/immersive/lessons/full-stack-frameworks/forms-with-react/#learning-objectives)
-- [Learning Portal - Ajax with React](https://learn.digitalcrafts.com/immersive/lessons/full-stack-frameworks/ajax-with-react/#learning-objectives)
-- [Learning Portal - Writing Function Components](https://learn.digitalcrafts.com/immersive/lessons/full-stack-frameworks/function-components/#learning-objectives)
-- [Learning Portal - React Hooks and Lifecycle Methods](https://learn.digitalcrafts.com/immersive/lessons/full-stack-frameworks/react-hooks/#learning-objectives)
-- [Learning Portal - Using React-Router](https://learn.digitalcrafts.com/immersive/lessons/full-stack-frameworks/react-router/#learning-objectives)
-
 ---
 
 ## Day 1 

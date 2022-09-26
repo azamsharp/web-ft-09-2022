@@ -15,9 +15,6 @@
    * Optimize databases with indexes
    * Export and import data
 
-### Pre-Reading
-- [Learning Portal - Data Modeling](https://learn.digitalcrafts.com/immersive/lessons/databases/data-modeling/#overview)
----
 ## Day 1 
 
 ### ❗ Learning Objectives
@@ -29,10 +26,6 @@
 3. Make queries against a database using SQL statements
 4. Inject JavaScript data into SQL statements
 
-
-### Pre-Reading
-- [Learning Portal - PostgreSQL](https://learn.digitalcrafts.com/immersive/lessons/databases/data-modeling/#learning-objectives)
-- [Learning Portal - PG Promise](https://learn.digitalcrafts.com/immersive/lessons/databases/pg-promise/#learning-objectives)
 
 #
 
@@ -46,9 +39,6 @@
 
 ## Day 2 
 
-### Pre-Reading
-- [SQL Joins](https://docs.google.com/presentation/d/1jpUizpH3efjrfrlvOCAlRJh7203SLTfovzi2_SivGb4/edit#slide=id.p)
-- [bcrypt](https://docs.google.com/presentation/d/1_uHEMl7QMMczL23MEayom9BBD47EzHWWPz0AICHsBAY/edit#slide=id.g85d068d85e_0_186)
 #
 - [Activity 2 - JOINS](day2/activities/joins.md)
 - [Encrypting Sensitive Data Using bcryptjs](https://www.npmjs.com/package/bcryptjs)
@@ -67,9 +57,6 @@
 4. Add model relationships
 5. Update the schema using migrations
 6. (consider deleting) Perform on-demand fetching of children
-
-### Pre-Reading
-- [Learning Portal - Sequelize ORM](https://learn.digitalcrafts.com/immersive/lessons/databases/sequelize-orm/#learning-objectives)
 
 #
 

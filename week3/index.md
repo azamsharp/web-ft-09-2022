@@ -6,6 +6,7 @@
 - [Activity 1](day1/activities/styles.md)
 - [Activity 2](day1/activities/apply-styles-list.md)
 - [Assignment - 90's Website](day1/assignments/ninty-website.md)
+- [Class Code - 09-26-2022](day1/code-downloads/LearnHTML.zip) 
 
 ## Day 2 
 - [Activity - HighOnCoding](day2/activities/hoc.md)
@@ -35,7 +36,6 @@
 
 ## Day 5 
 
-### Pre-Reading 
 - [Surge](https://surge.sh/)
 - [Animate.css](https://animate.style/)
 - [Activity 1 - FlexBox](day5/activities/flex.md)

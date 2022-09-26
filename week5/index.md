@@ -3,18 +3,13 @@
 
 ## Day 1
 
-### ❗ Learning Objectives
+##❗ Learning Objectives
 
 <h4>After completing this lesson, you will be able to:</h4>
 
 1. Make AJAX requests using the XHR object and the fetch API
 2. Interpret server status codes
 3. Handle AJAX server responses
-
-
-### Pre-Reading
-- [Learning Portal - AJAX 101](https://learn.digitalcrafts.com/immersive/lessons/building-interactive-uis/ajax-101/#learning-objectives)
-- [Learning Portal - Intro to Promise](https://learn.digitalcrafts.com/immersive/lessons/building-interactive-uis/intro-to-promises/#learning-objectives)
  
 ## Activities, Exercises, and Class Code 
 - [Activity 1 - Dog Facts](day1/activities/dog-facts.md)
@@ -32,10 +27,6 @@
 
 1. Understand the different kinds of AJAX requests you can make using an XHR object.
 2. Use an AJAX request to mutate a database.
-
-### Pre-Reading
-- [Learning Portal - XHR Objects](https://learn.digitalcrafts.com/immersive/lessons/building-interactive-uis/ajax-101/#xhr-object)
-- [Learning Portal - Intro to Promise](https://learn.digitalcrafts.com/immersive/lessons/building-interactive-uis/intro-to-promises/#learning-objectives)
 
 ### Class Code, Exercises, and Assignments
 
@@ -58,12 +49,6 @@
 1. Use the fetch API to retrieve JSON from a database.
 2. Interpret that JSON as data and mutate it.
 3. Return new values to the database.
-
-
-### Pre-Reading
-- [Learning Portal - Fetch 101](https://learn.digitalcrafts.com/immersive/lessons/building-interactive-uis/ajax-101/#fetch-api)
-- [Learning Portal - Use Promises with Fetch API](https://learn.digitalcrafts.com/immersive/lessons/building-interactive-uis/intro-to-promises/#how-do-you-use-a-promise)
-
 
 ### Activities, Assignments, and Class Code
 
@@ -90,18 +75,9 @@
 3. Scrum
 4. Kanban
 
-
-### Pre-Reading
-- [Learning Portal - Project Management 101](https://learn.digitalcrafts.com/immersive/lessons/front-end-foundations/project-management-101/#learning-objectives)
-
 #
-
 - [Agile Principles](day5/resources/agile.md) 
 - [Why create GitHub branches?](day5/resources/branches.md)
-
-
-### Pre-Reading
-- [Async and Await](https://learn.digitalcrafts.com/immersive/lessons/building-interactive-uis/intro-to-promises/#what-is-asynchrony)
 
 - [Async and Await - Mozilla Website](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Asynchronous/Async_await)
 
@@ -109,6 +85,7 @@
 
 - [Assignment - Hacker News](day4/assignments/hacker-news.md)
 - [Class Code](day4/code-downloads/async-await.zip)
+
 <!-- 
 - [Activity 1 - Saving Movie into Firebase](day4/activities/save-movie.md)
 - [Activity 2 - Fetching and Displaying Movies from Firebase](day4/activities/fetch-movie.md)
