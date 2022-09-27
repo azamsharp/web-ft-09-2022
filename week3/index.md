@@ -13,6 +13,7 @@
 - [Activity 1 - Fix the Margin](day2/activities/fix-the-margin.md) 
 - [Activity 2 - Deal Week](day2/activities/deal-week.md) 
 - [Assignment - Interface for Bricks Game](day2/assignments/bricks.md)
+- [Class Code - 09/27/2022](day2/code-downloads/LearnPositionMargins.zip) 
 
 ## Day 3 
 ---
