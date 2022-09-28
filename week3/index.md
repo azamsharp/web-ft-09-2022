@@ -20,6 +20,7 @@
 - [Activity 1 - Media Queries](day3/activities/media-q.md)
 - [Activity 2 - FlexBox](day3/activities/flexbox.md)
 - [Resource - Media Queries](https://gist.github.com/gokulkrishh/242e68d1ee94ad05f488)
+- [Resource - FlexBox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 - [Assignment - Engadget Website](day3/assignments/engadget.md)
 - [Class Code](day3/code-downloads/apple-website.zip) 
 - [Class Code - 07-21-2021](day3/code-downloads/media-queries.zip) 
