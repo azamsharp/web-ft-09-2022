@@ -24,6 +24,7 @@
 - [Assignment - Engadget Website](day3/assignments/engadget.md)
 - [Class Code](day3/code-downloads/apple-website.zip) 
 - [Class Code - 07-21-2021](day3/code-downloads/media-queries.zip) 
+- [Class Code - 09-28-2022](https://gist.github.com/azamsharp/568066e201721193a5357c6726ed43d9)
 
 ## Day 4 
 ---
