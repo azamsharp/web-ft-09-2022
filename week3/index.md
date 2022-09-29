@@ -35,7 +35,7 @@
 - [Google Chrome Developer Tools](https://developers.google.com/web/tools/chrome-devtools/open)
 - [Optional Assignment - Dribble Website](day4/activities/round-robin.md)
 - [Activity 1 - Hello Bootstrap](day4/activities/hello-bootstrap.md)
-- <!--
+<!-- - 
 - [Activity 2 - Engadget Website Using Sass](day4/activities/sass.md)
 -->
 - [Assignment - HighOnCoding Using Bootstrap](day4/assignments/hoc.md)
