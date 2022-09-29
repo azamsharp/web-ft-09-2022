@@ -29,11 +29,15 @@
 ## Day 4 
 ---
 - [Bootstrap Official Website](https://getbootstrap.com/)
+<!-- 
 - [Sass Official Website](https://sass-lang.com/)
+-->
 - [Google Chrome Developer Tools](https://developers.google.com/web/tools/chrome-devtools/open)
 - [Optional Assignment - Dribble Website](day4/activities/round-robin.md)
 - [Activity 1 - Hello Bootstrap](day4/activities/hello-bootstrap.md)
+- <!--
 - [Activity 2 - Engadget Website Using Sass](day4/activities/sass.md)
+-->
 - [Assignment - HighOnCoding Using Bootstrap](day4/assignments/hoc.md)
 - [HARD Optional Assignment - Legacy Website to Responsive Website](day4/assignments/legacy.md)
 - [Class Code](day4/code-downloads/intro-sass-bootstrap.zip)
