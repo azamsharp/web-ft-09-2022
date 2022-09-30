@@ -47,5 +47,6 @@
 - [Surge](https://surge.sh/)
 - [Animate.css](https://animate.style/)
 - [Activity 1 - FlexBox](day5/activities/flex.md)
+- [Extra FlexBox Activities](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Flexbox_skills)
 
 <!-- - [Activity 2 - Grid](day5/activities/flex.md) -->
