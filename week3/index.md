@@ -47,4 +47,5 @@
 - [Surge](https://surge.sh/)
 - [Animate.css](https://animate.style/)
 - [Activity 1 - FlexBox](day5/activities/flex.md)
-- [Activity 2 - Grid](day5/activities/flex.md)
+
+<!-- - [Activity 2 - Grid](day5/activities/flex.md) -->
