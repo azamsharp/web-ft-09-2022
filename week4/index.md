@@ -13,6 +13,8 @@
 - [Activity 2 - Sum of given integers](day1/activities/sum-of-int.md)
 - [Activity 3 - Vowel](day1/activities/vowel.md)
 - [Activity 4 - Bank Account Class](day1/activities/bank-account.md)
+- [Activity 5 - Fizz Buzz]
+- [Activity 6 - Palindrome]
 - [Assignment - JavaScript Exercises](day1/assignments/intro-js.md)
 - [Class Code - 07/26/2021](day1/code-downloads/intro-js-1.zip)
 - [Class Code](day1/code-downloads/intro-js.zip)
