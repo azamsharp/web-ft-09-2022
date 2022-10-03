@@ -18,6 +18,7 @@
 - [Assignment - JavaScript Exercises](day1/assignments/intro-js.md)
 - [Class Code - 07/26/2021](day1/code-downloads/intro-js-1.zip)
 - [Class Code](day1/code-downloads/intro-js.zip)
+- [Class Code - 10/03/2022](https://gist.github.com/azamsharp/9ddb3f8f5a82839d165e3006fc80ea5c)
 
 ## Day 2 
 
