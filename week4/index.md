@@ -36,6 +36,7 @@
 - [Assignment - TODO List](day2/assignments/todo-list.md)
 - [Class Code](day2/code-downloads/dom-manipulation.zip)
 - [Class Code - 07/27/2021](day2/code-downloads/dom-mani.zip)
+- [Class Code - 10/04/2022](day2/code-downloads/intro-dom-manipulation.zip)
 
 ## Day 3 
 
