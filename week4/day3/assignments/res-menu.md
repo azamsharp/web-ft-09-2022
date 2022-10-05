@@ -11,7 +11,7 @@ Price
 ImageURL (Display the image not the actual image URL) 
 ```
  
-// OPTIONAL  
+// OPTIONAL  // Research Array Helpers in JavaScript (filter, map) 
 
 The page should also have an option to FILTER the dishes by course: 
 
