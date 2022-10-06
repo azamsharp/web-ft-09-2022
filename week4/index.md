@@ -69,6 +69,8 @@
 - [Assignment - News Website](day4/assignments/news.md)
 - [Class Code](day4/code-downloads/callbacks.zip)
 - [Class Code - 07-29-2021](day4/code-downloads/callbacks-29.zip)
+- [Class code - 10/06/2022](day4/code-downloads/week4-day4.zip)
+
 
 ## Day 5 
 
