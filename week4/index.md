@@ -90,5 +90,6 @@
 - [Deployment Netlify](https://www.netlify.com/)
 - [Algorithms](day5/activities/algos.md)
 - [Class Code](day5/code-downloads/validation-review.zip)
+- [Class Code 10/07/2022](day5/code-downloads//week4-day5.zip)
 
 
