@@ -81,8 +81,11 @@
 
 ---
 
-- [Activity 1 - Slideshow](day5/activities/slideshow.md)
-- [Activity 2 - Registration](day5/activities/register.md)
+- [Activity 1 - Timer](day4/activities/timer.md)
+- [Activity 2 - Stock Quotes](day4/activities/stocks.md)
+- [Activity 3 - Array Helpers](day3/activities/array-helpers.md)
+- [Activity 4 - Slideshow](day5/activities/slideshow.md)
+- [Activity 5 - Registration](day5/activities/register.md)
 - [Deployment Surge](https://surge.sh/)
 - [Deployment Netlify](https://www.netlify.com/)
 - [Algorithms](day5/activities/algos.md)
