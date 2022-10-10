@@ -13,7 +13,6 @@
  
 ## Activities, Exercises, and Class Code 
 - [Activity 1 - Dog Facts](day1/activities/dog-facts.md)
-- [Activity 2 - Chuck Norris Facts](day1/activities/chuck-facts.md)
 - [Activity 3 - Dog Pictures](day1/activities/dog-pics.md)
 - [Assignment - Super Heroes](day1/assignments/super-heroes.md) 
 - [Class Code](day1/code-downloads/async-js.zip)
