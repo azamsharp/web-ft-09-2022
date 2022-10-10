@@ -18,6 +18,7 @@
 - [Class Code](day1/code-downloads/async-js.zip)
 - [Class Code - 08/02/2021](day1/code-downloads/async-req.zip)
 - [Class Code - 10/10/2022](day1/code-downloads/week5-day1.zip)
+- [Resource - Links to Few Public APIs](https://github.com/public-apis/public-apis)
 
 ---
 ## Day 2 
