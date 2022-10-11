@@ -38,6 +38,7 @@
 - [Assignment - Coffee Orders](day2/assignments/coffee-orders.md)
 - [Class Code](day2/code-downloads/http-post.zip)
 - [Class Code - 08/03/2021](day2/code-downloads/post-async.zip)
+- [Class Code - 10/11/2022](day2/code-downloads/week5-day2.zip)
 
 ---
 
