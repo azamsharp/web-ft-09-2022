@@ -31,6 +31,7 @@
 
 ### Class Code, Exercises, and Assignments
 
+- [Activity 3 - Dog Pictures](day1/activities/dog-pics.md)
 - [Activity - Stocks](day2/activities/activity-stocks.md)
 - [Activity - POST](day2/activities/activity-post.md)
 - [Activity - DELETE](day2/activities/activity-delete.md)
