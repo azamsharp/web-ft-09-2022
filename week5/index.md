@@ -45,14 +45,6 @@
 ## Day 3 
 
 
-### ❗ Learning Objectives
-
-<h4>After completing this lesson, you will be able to:</h4>
-
-1. Use the fetch API to retrieve JSON from a database.
-2. Interpret that JSON as data and mutate it.
-3. Return new values to the database.
-
 ### Activities, Assignments, and Class Code
 
 - [Activity 1 - Callbacks](day3/activities/callbacks.md)
@@ -76,7 +68,6 @@
 1. Waterfall
 2. Agile
 3. Scrum
-4. Kanban
 
 #
 - [Agile Principles](day5/resources/agile.md) 
