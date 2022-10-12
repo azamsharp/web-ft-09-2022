@@ -54,6 +54,7 @@
 - [Fetch API](https://github.com/github/fetch)
 - [Class Code](day3/code-downloads/learn-fetch.zip)
 - [Class Code - 08/04/2021](day3/code-downloads/intro-promises.zip)
+- [Class Code - 10/12/2022](day3/code-downloads/intro-promises-2022.zip)
 
 ---
 
