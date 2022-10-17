@@ -19,6 +19,7 @@
 - [Class Code - 07/26/2021](day1/code-downloads/intro-js-1.zip)
 - [Class Code](day1/code-downloads/intro-js.zip)
 - [Class Code - 10/03/2022](https://gist.github.com/azamsharp/9ddb3f8f5a82839d165e3006fc80ea5c)
+- [Canvas Resouce - JavaScript 101](https://digitalcrafts.instructure.com/courses/220/pages/reading-javascript-101?module_item_id=44603)
 
 ## Day 2 
 
@@ -37,6 +38,8 @@
 - [Class Code](day2/code-downloads/dom-manipulation.zip)
 - [Class Code - 07/27/2021](day2/code-downloads/dom-mani.zip)
 - [Class Code - 10/04/2022](day2/code-downloads/intro-dom-manipulation.zip)
+- [Canvas Resouce - DOM 101](https://digitalcrafts.instructure.com/courses/220/pages/reading-dom-101?module_item_id=44626)
+- [Canvas Resouce - Handling Browser Events](https://digitalcrafts.instructure.com/courses/220/pages/reading-handling-browser-events?module_item_id=44627)
 
 ## Day 3 
 
