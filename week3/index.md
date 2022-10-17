@@ -28,6 +28,8 @@
 - [Class Code](day3/code-downloads/apple-website.zip) 
 - [Class Code - 07-21-2021](day3/code-downloads/media-queries.zip) 
 - [Class Code - 09-28-2022](https://gist.github.com/azamsharp/568066e201721193a5357c6726ed43d9)
+- - [Canvas Recourse - Media Queries](https://digitalcrafts.instructure.com/courses/220/pages/reading-media-queries?module_item_id=44565)
+- - [Canvas Recourse - CSS Flexbox](https://digitalcrafts.instructure.com/courses/220/pages/reading-css-flexbox?module_item_id=44564)
 
 ## Day 4 
 ---
@@ -44,6 +46,7 @@
 - [Assignment - HighOnCoding Using Bootstrap](day4/assignments/hoc.md)
 - [HARD Optional Assignment - Legacy Website to Responsive Website](day4/assignments/legacy.md)
 - [Class Code](day4/code-downloads/intro-sass-bootstrap.zip)
+- [Canvas Recourse - Bootstrap](https://digitalcrafts.instructure.com/courses/220/pages/reading-bootstrap?module_item_id=44584)
 
 ## Day 5 
 
@@ -52,5 +55,4 @@
 - [Activity 1 - FlexBox](day5/activities/flex.md)
 - [Extra FlexBox Activities](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Flexbox_skills)
 - [Canvas Recourse - CSS Flexbox](https://digitalcrafts.instructure.com/courses/220/pages/reading-css-flexbox?module_item_id=44564)
-- [Canvas Recourse - Media Queries](https://digitalcrafts.instructure.com/courses/220/pages/reading-media-queries?module_item_id=44565)
 <!-- - [Activity 2 - Grid](day5/activities/flex.md) -->
