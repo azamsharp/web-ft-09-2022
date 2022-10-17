@@ -7,6 +7,7 @@
 - [Activity 2](day1/activities/apply-styles-list.md)
 - [Assignment - 90's Website](day1/assignments/ninty-website.md)
 - [Class Code - 09-26-2022](day1/code-downloads/LearnHTML.zip) 
+- [Canvas Recourse - CSS 101](https://digitalcrafts.instructure.com/courses/220/pages/reading-css-101?module_item_id=44529)
 
 ## Day 2 
 - [Activity - HighOnCoding](day2/activities/hoc.md)
@@ -14,6 +15,8 @@
 - [Activity 2 - Deal Week](day2/activities/deal-week.md) 
 - [Assignment - Interface for Bricks Game](day2/assignments/bricks.md)
 - [Class Code - 09/27/2022](day2/code-downloads/LearnPositionMargins.zip) 
+- [Canvas Recourse - Intro to CSS Grid](https://digitalcrafts.instructure.com/courses/220/pages/reading-intro-to-css-grid?module_item_id=44544)
+- [Canvas Recourse - CSS Postion Properties](https://digitalcrafts.instructure.com/courses/220/pages/reading-css-position-property?module_item_id=44545)
 
 ## Day 3 
 ---
@@ -48,5 +51,6 @@
 - [Animate.css](https://animate.style/)
 - [Activity 1 - FlexBox](day5/activities/flex.md)
 - [Extra FlexBox Activities](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Flexbox_skills)
-
+- [Canvas Recourse - CSS Flexbox](https://digitalcrafts.instructure.com/courses/220/pages/reading-css-flexbox?module_item_id=44564)
+- [Canvas Recourse - Media Queries](https://digitalcrafts.instructure.com/courses/220/pages/reading-media-queries?module_item_id=44565)
 <!-- - [Activity 2 - Grid](day5/activities/flex.md) -->
