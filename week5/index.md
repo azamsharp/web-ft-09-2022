@@ -20,7 +20,6 @@
 - [Class Code - 10/10/2022](day1/code-downloads/week5-day1.zip)
 - [Resource - Links to Few Public APIs](https://github.com/public-apis/public-apis)
 - [Canvas Resource - AJAX 101](https://digitalcrafts.instructure.com/courses/220/pages/reading-ajax-101?module_item_id=44683)
-- 
 
 ---
 ## Day 2 
