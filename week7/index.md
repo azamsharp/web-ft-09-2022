@@ -37,7 +37,6 @@
 - [Class Code - 08/17/2021](day2/code-downloads/hello-server-side-pages.zip)
 - [Canvas Recourse - Express Template Engine](https://digitalcrafts.instructure.com/courses/220/pages/reading-express-template-engine?module_item_id=44786)
 - [Canvas Recourse -Middleware](https://digitalcrafts.instructure.com/courses/220/pages/reading-middleware?module_item_id=44787)
-- 
 ---
 ## Day 3
 ### ❗ Learning Objectives
