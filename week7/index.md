@@ -17,6 +17,7 @@
 - [Activity 3 - Post Name](day1/activities/hello-post.md)
 - [Assignment - TODO List](day1/assignments/todo.md)
 - [Class Code](day1/code-downloads/NodeMoviesApp.zip)
+- [Class Code - 10/25/2022](day1/code-downloads/10-25-2022-intro-node.zip)
 - [Canvas Recourse - Expres 101](https://digitalcrafts.instructure.com/courses/220/pages/reading-express-101?module_item_id=44772)
 ---
 ## Day 2
