@@ -4,7 +4,7 @@ You are in charge of creating a website for tracking trips. You will use server 
 
 Your app should allow users to do the following: 
 
-- Ability to add a new trip. A new trip consists of title, image, date of departure, date of return 
+- Ability to add a new trip. A new trip consists of title, image, date of departure, date of return (DO NOT UPLOAD IMAGES. JUST USE TEXTBOX TO ENTER THE URL TO AN IMAGE)
 
 - Ability to view all the trips (A sample screenshot is shown below. Screenshot is just for demoing purposes you can design your app however you want) 
 
