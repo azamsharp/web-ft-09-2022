@@ -36,6 +36,7 @@
 - [Assignment - Trips](day2/assignments/trips.md)
 - [Class Code](day2/code-downloads/hello-mustache.zip)
 - [Class Code - 08/17/2021](day2/code-downloads/hello-server-side-pages.zip)
+- [Class Code - 10/26/2022](day2/code-downloads/week7-day2-mustache.zip)
 - [Canvas Recourse - Express Template Engine](https://digitalcrafts.instructure.com/courses/220/pages/reading-express-template-engine?module_item_id=44786)
 - [Canvas Recourse -Middleware](https://digitalcrafts.instructure.com/courses/220/pages/reading-middleware?module_item_id=44787)
 ---
