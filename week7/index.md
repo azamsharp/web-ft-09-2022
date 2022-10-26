@@ -40,6 +40,8 @@
 - [Canvas Recourse - Express Template Engine](https://digitalcrafts.instructure.com/courses/220/pages/reading-express-template-engine?module_item_id=44786)
 - [Canvas Recourse -Middleware](https://digitalcrafts.instructure.com/courses/220/pages/reading-middleware?module_item_id=44787)
 ---
+
+<!-- 
 ## Day 3
 ### ❗ Learning Objectives
 
@@ -80,3 +82,4 @@
 - [Assignment - Trips Chat](day5/assignments/chat.md)
 - [Class Code](day5/code-downloads/Chat.zip)
 - [Class Code - 08/20/2021](day5/code-downloads/session-middleware-chat.zip)
+-->
