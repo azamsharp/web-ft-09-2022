@@ -53,6 +53,7 @@
 - [Assignment - Movies Website](day3/assignments/movies.md)
 - [Class Code](day3/code-downloads/routing.zip) 
 - [Class Code - 08/18/2021](day3/code-downloads/hello-router.zip) 
+- [Class Code - 10/27/2022](day3/code-downloads/week7-day3-router.zip) 
 ---
 ## Day 4 
 
