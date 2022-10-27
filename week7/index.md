@@ -40,6 +40,8 @@
 - [Canvas Recourse - Express Template Engine](https://digitalcrafts.instructure.com/courses/220/pages/reading-express-template-engine?module_item_id=44786)
 - [Canvas Recourse -Middleware](https://digitalcrafts.instructure.com/courses/220/pages/reading-middleware?module_item_id=44787)
 ---
+
+
 ## Day 3
 ### ❗ Learning Objectives
 
@@ -55,6 +57,7 @@
 - [Class Code - 08/18/2021](day3/code-downloads/hello-router.zip) 
 - [Class Code - 10/27/2022](day3/code-downloads/week7-day3-router.zip) 
 ---
+<!-- 
 ## Day 4 
 
 - [Activity 1 - Counter](day4/activities/counter.md)
@@ -65,6 +68,8 @@
 - [Canvas Recourse - Node Under The Hood](https://digitalcrafts.instructure.com/courses/220/pages/reading-node-under-the-hood?module_item_id=44798)
 - Gist: https://gist.github.com/azamsharp/fc55b2ca04417d813fa78886fc2b9ea3
 ---
+
+
 ## Day 5 
 ### ❗ Learning Objectives
 
@@ -81,3 +86,4 @@
 - [Assignment - Trips Chat](day5/assignments/chat.md)
 - [Class Code](day5/code-downloads/Chat.zip)
 - [Class Code - 08/20/2021](day5/code-downloads/session-middleware-chat.zip)
+-->
