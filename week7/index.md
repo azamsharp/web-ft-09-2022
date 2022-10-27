@@ -56,6 +56,7 @@
 - [Class Code](day3/code-downloads/routing.zip) 
 - [Class Code - 08/18/2021](day3/code-downloads/hello-router.zip) 
 ---
+<!-- 
 ## Day 4 
 
 - [Activity 1 - Counter](day4/activities/counter.md)
@@ -67,7 +68,7 @@
 - Gist: https://gist.github.com/azamsharp/fc55b2ca04417d813fa78886fc2b9ea3
 ---
 
-<!-- 
+
 ## Day 5 
 ### ❗ Learning Objectives
 
