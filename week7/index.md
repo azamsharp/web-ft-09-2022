@@ -65,6 +65,8 @@
 - [Assignment - Trips (Login and Register)](day4/assignments/trips.md)
 - [Class Code](day4/code-downloads/session-middleware.zip)
 - [Class Code - 08/19/2021](day4/code-downloads/session-middleware-1.zip)
+- [Class Code - 10/28/2022](day4/code-downloads/week7-day4-sessions.zip)
+
 - [Canvas Recourse - Node Under The Hood](https://digitalcrafts.instructure.com/courses/220/pages/reading-node-under-the-hood?module_item_id=44798)
 - Gist: https://gist.github.com/azamsharp/fc55b2ca04417d813fa78886fc2b9ea3
 ---
