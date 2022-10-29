@@ -29,7 +29,7 @@
 #
 ## ⭐️ Resources ⭐️
 - [PG Promises Canvas](https://digitalcrafts.instructure.com/courses/189/pages/reading-pg-promise?module_item_id=23423)
-- [PG Promise Docs] (https://www.npmjs.com/package/pg-promise)
+- [PG Promise Docs](https://www.npmjs.com/package/pg-promise)
 - 
 <!-- ## Helpful Videos Udemy Course
 - [What is pg-promise?](https://www.udemy.com/course/nodejs-complete-guide-to-building-data-driven-applications/learn/lecture/14189637#overview)
@@ -76,7 +76,7 @@ pg-promise](https://www.udemy.com/course/nodejs-complete-guide-to-building-data-
 
 #
 ## ⭐️ Resources ⭐️
--[Sequelize ORM] (https://digitalcrafts.instructure.com/courses/220/pages/reading-sequelize-orm?module_item_id=44846)
+-[Sequelize ORM](https://digitalcrafts.instructure.com/courses/220/pages/reading-sequelize-orm?module_item_id=44846)
 <!-- 
 ## Helpful Videos:
 - [Sequelize CLI Commands](https://www.udemy.com/course/nodejs-complete-guide-to-building-data-driven-applications/learn/lecture/14301680#overview)
@@ -97,7 +97,7 @@ pg-promise](https://www.udemy.com/course/nodejs-complete-guide-to-building-data-
 ## Day 4 
 
 ## Resources
--[Sequelize Migrations] (https://sequelize.org/docs/v6/other-topics/migrations/)
+-[Sequelize Migrations](https://sequelize.org/docs/v6/other-topics/migrations/)
 
 #
 - [Activity 2 - Sequelize Migration](day3/activities/seq-migration.md)
