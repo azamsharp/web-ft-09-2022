@@ -35,6 +35,7 @@
 - [Assignment - Blog App PostgreSQL Database](day1/assignments/blog-app.md)
 - [Class Code](day1/code-downloads/intro-sql-pgpromise.zip)
 - [Class Code - 08/23/2021](day1/code-downloads/intro-sql-pgpromise-3.zip)
+- [Class Code - 10/31/2022](day1/code-downloads/10-30-2022-sql-intro.zip) 
 ---
 
 ## Day 2 
