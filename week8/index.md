@@ -26,9 +26,25 @@
 3. Make queries against a database using SQL statements
 4. Inject JavaScript data into SQL statements
 
-
 #
-
+## ⭐️ Resources ⭐️
+- [PG Promises Canvas](https://digitalcrafts.instructure.com/courses/189/pages/reading-pg-promise?module_item_id=23423)
+- [PG Promise Docs](https://www.npmjs.com/package/pg-promise)
+- 
+<!-- ## Helpful Videos Udemy Course
+- [What is pg-promise?](https://www.udemy.com/course/nodejs-complete-guide-to-building-data-driven-applications/learn/lecture/14189637#overview)
+- [Connecting to PostgreSQL
+Using pg-promise](https://www.udemy.com/course/nodejs-complete-guide-to-building-data-driven-applications/learn/lecture/14189647#overview)
+- [Inserting Record Using
+pg-promise](https://www.udemy.com/course/nodejs-complete-guide-to-building-data-driven-applications/learn/lecture/14189659#overview)
+- [ Retrieving Records Using
+pg-promise](https://www.udemy.com/course/nodejs-complete-guide-to-building-data-driven-applications/learn/lecture/14189683#overview)
+- [ Update Record Using
+pg-promise](https://www.udemy.com/course/nodejs-complete-guide-to-building-data-driven-applications/learn/lecture/14189693#overview)
+- [ Deleting Record Using
+pg-promise](https://www.udemy.com/course/nodejs-complete-guide-to-building-data-driven-applications/learn/lecture/14189697#overview)
+ -->
+#
 - [Activity 1 - SQL Statements](day1/activities/sql.md)
 - [Activity 2 - INSERT AND SELECT](day1/activities/insert-and-select.md)
 - [Activity 3 - INSERT Using Pg-Promise](day1/activities/insert-pgpromise.md)
@@ -60,7 +76,17 @@
 6. (consider deleting) Perform on-demand fetching of children
 
 #
-
+## ⭐️ Resources ⭐️
+-[Sequelize ORM](https://digitalcrafts.instructure.com/courses/220/pages/reading-sequelize-orm?module_item_id=44846)
+<!-- 
+## Helpful Videos:
+- [Sequelize CLI Commands](https://www.udemy.com/course/nodejs-complete-guide-to-building-data-driven-applications/learn/lecture/14301680#overview)
+- [Creating Models Using Sequelize CLI](https://www.udemy.com/course/nodejs-complete-guide-to-building-data-driven applications/learn/lecture/14301166#overview)
+- [Saving Models](https://www.udemy.com/course/nodejs-complete-guide-to-building-data-driven-applications/learn/lecture/14303124#overview)
+- [Retrieving List of Records](https://www.udemy.com/course/nodejs-complete-guide-to-building-data-driven-applications/learn/lecture/14303218#overview)
+- [ Updating Record](https://www.udemy.com/course/nodejs-complete-guide-to-building-data-driven-applications/learn/lecture/14311210#overview)
+- [ Deleting Record](https://www.udemy.com/course/nodejs-complete-guide-to-building-data-driven-applications/learn/lecture/14303226#overview) -->
+#
 - [Sequelize CLI Commands](day3/resources/seq-cli.md)
 - [Activity 1 - Initialize Sequelize](day3/activities/init-seq.md)
 - [Activity 2 - Sequelize Migration](day3/activities/seq-migration.md)
@@ -70,6 +96,11 @@
 
 ---
 ## Day 4 
+
+## Resources
+-[Sequelize Migrations](https://sequelize.org/docs/v6/other-topics/migrations/)
+
+#
 - [Activity 2 - Sequelize Migration](day3/activities/seq-migration.md)
 - [Assignment - Sequelize Blog App Using Comments](day4/assignments/blog-app-comments.md)
 - [Class Code](day4/code-downloads/seq-rel.zip)
