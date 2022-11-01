@@ -26,7 +26,7 @@ date_created
 post_id - FK to the postid column in posts table
 ```
  
-- Add 3 posts in the post title using INSERT SQL command 
+- Add 3 posts in the post table using INSERT SQL command 
 
 - Add 5 comments in comments table using INSERT command. Assign 3 commends to one post and 2 to some other post 
 
