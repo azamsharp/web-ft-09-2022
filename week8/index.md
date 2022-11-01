@@ -63,6 +63,7 @@ pg-promise](https://www.udemy.com/course/nodejs-complete-guide-to-building-data-
 - [Assignment - Blog App](day2/assignments/blog-app.md)
 - [Class Code](day2/code-downloads/intro-sql-pgpromise.zip) 
 - [Class Code - 08/24/2021](day2/code-downloads/intro-sql-pgpromise-encrypt.zip) 
+- [Class Code - 11/01/2022](day2/code-downloads/11-01-2022-sql-joins.zip)
 ---
 ## Day 3 
 ### ❗ Learning Objectives
