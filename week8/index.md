@@ -94,7 +94,7 @@ pg-promise](https://www.udemy.com/course/nodejs-complete-guide-to-building-data-
 - [Assignment - Blog App Using Sequelize](day3/assignments/blog-app.md) 
 - [Class Code](day3/code-downloads/intro-sequelize.zip)
 - [Class Code - 08/25/2021](day3/code-downloads/intro-seq.zip)
-[Class Code - 11/02/2022](day3/code-downloads/11-02-2022-intro-to-seq.zip)
+- [Class Code - 11/02/2022](day3/code-downloads/11-02-2022-intro-to-seq.zip)
 
 ---
 ## Day 4 
