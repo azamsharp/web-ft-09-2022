@@ -29,7 +29,15 @@ React is a small but flexible front-end library that helps you create UIs. It is
 - [Class Code](day1/code-downloads/hello-react.zip)
 - [Class Code - 09-07-2021](day1/code-downloads/hello-react-09-07.zip)
 - [React Developer Tools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?hl=en)
+
 - [Class Code - 11-14-2022](day1/code-downloads//hello-react-09-07.zip)
+
+## Resources 
+- [React Official Website](https://reactjs.org/)
+- [Intro to React](https://digitalcrafts.instructure.com/courses/212/pages/reading-intro-to-react?module_item_id=39561)
+- [React DevTools](https://digitalcrafts.instructure.com/courses/212/pages/reading-react-devtools?module_item_id=39562)
+- [Using create-react-app](https://digitalcrafts.instructure.com/courses/212/pages/reading-using-create-react-app?module_item_id=39563)
+>>>>>>> ff606ab5eb8592301ca7d7ffffdcbceabe21562c
 ---
 ## Day 2 
 
