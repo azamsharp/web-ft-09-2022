@@ -37,7 +37,7 @@ React is a small but flexible front-end library that helps you create UIs. It is
 - [Intro to React](https://digitalcrafts.instructure.com/courses/212/pages/reading-intro-to-react?module_item_id=39561)
 - [React DevTools](https://digitalcrafts.instructure.com/courses/212/pages/reading-react-devtools?module_item_id=39562)
 - [Using create-react-app](https://digitalcrafts.instructure.com/courses/212/pages/reading-using-create-react-app?module_item_id=39563)
->>>>>>> ff606ab5eb8592301ca7d7ffffdcbceabe21562c
+
 ---
 ## Day 2 
 
