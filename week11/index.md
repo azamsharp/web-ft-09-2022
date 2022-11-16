@@ -55,6 +55,7 @@ React is a small but flexible front-end library that helps you create UIs. It is
 - [Assignment - Book Barn + Node](day3/assignments/book-barn-node.md) 
 - [Class Code](day3/code-downloads/BookBarn.zip)
 - [Class Code - 09/09/2021](day3/code-downloads/books-react-and-server.zip)
+- [Class Code - 11/16/2022](day3/code-downloads/book-barn-11-16-2022.zip)
 
 ---
 ## Day 4 
