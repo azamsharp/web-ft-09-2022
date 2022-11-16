@@ -8,9 +8,9 @@ Your app should consists of the following features:
 
 **- Allow the user to view all books** 
 
-- Allow the user to delete books 
+- Allow the user to delete books (HARD MODE)
 
-- Allow the user to update books 
+- Allow the user to update books (HARD MODE)
 
  
 **Book Model**
