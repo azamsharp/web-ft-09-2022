@@ -4,10 +4,10 @@
 In this activity, you are going to use Hooks to load data from the following url. Display the following information on the screen. 
 
 ```
-email 
-first_name 
-last_name 
-avatar 
+id 
+title 
+price 
+description
 ```
 
-https://reqres.in/api/users?page=2
+https://api.escuelajs.co/api/v1/products?offset=0&limit=10
