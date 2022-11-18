@@ -4,7 +4,6 @@
 In this activity, you are going to use Hooks to load data from the following url. Display the following information on the screen. 
 
 ```
-id 
 title 
 price 
 description
