@@ -39,6 +39,8 @@
 - [Assignment - Books App Using Redux](day2/assignments/books-app.md)
 - [Class Code](day2/code-downloads/04-20-2021-react-actions-creators.zip)
 - [Class Code - 09/14/2021](day2/code-downloads/hello-redux-action-creators-types.zip)
+- [Class Code - 11/29/2022](day2/code-downloads/hello-redux-11-29-2022.zip)
+
 
 ---
 ## Day 3 
