@@ -57,6 +57,7 @@
 - [Assignment - Books App Using Multiple Reducers](day3/assignments/books-mul-red.md)
 - [Class Code](day3/code-downloads/mul-red.zip) 
 - [Class Code - 09/15/2021](day3/code-downloads/mul-reducers.zip) 
+- [Class Code - 11/30/2022](day3/code-downloads//mul-red-11-30-2022.zip)
 ---
 ## Day 4 
 ### ❗ Learning Objectives
