@@ -19,10 +19,7 @@ To produce the random image you can use the following service:
 
 https://picsum.photos/
 
-A random image can be created using the following code: 
+The random image URL is shown below: 
 
-// the following url is a template literal
-
-
-const randomURL = `https://picsum.photos/200/300/random?time=${new Date().getTime()}`
+https://picsum.photos/200/300/
 
