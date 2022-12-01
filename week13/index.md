@@ -23,7 +23,7 @@
 - [Class Code - 10/07/2021](day3/code-downloads/hello-mongodb-10-7-2021.zip) 
 
 ## Day 4 
-[Start of the Capstone Project]
+[Start of the Individual Project]
 
 ## Day 5 
-[Capstone Project]
+[Individual Project]
