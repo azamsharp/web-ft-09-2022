@@ -81,4 +81,4 @@ Thunks are the recommended middleware for basic Redux side effects logic, includ
 ## Day 5 
 - Review
 - [Class Code](day5/code-downloads/books-app.zip) 
-- [Class Code: 12-02-2022](day5/code-downloads/books-barn.zip) 
+- [Class Code: 12-02-2022](day5/code-downloads/book-barn.zip)
