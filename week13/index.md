@@ -7,6 +7,7 @@
 - [Assignment - Books Website Authentication JWT](day1/assignments/books-auth.md)
 - [Class Code](day1/code-downloads/BookBarn.zip)
 - [Class Code - 10-05-2021](day1/code-downloads/Book-Barn-10-5.zip)
+- [Class Code - 12-05-2022](day1/code-downloads//book-barn.zip)
 
 ## Day 2 
 - [Book Barn - Client Side Authentication](day2/assignments/book-barn-client-auth.md)
