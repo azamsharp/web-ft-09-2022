@@ -13,7 +13,7 @@
 - [Book Barn - Client Side Authentication](day2/assignments/book-barn-client-auth.md)
 - [Class Code](day2/code-downloads/BookBarn.zip)
 - [Class Code - 10-6-2021](day2/code-downloads/Book-Barn-client-side-routes.zip)
-- [Class Code - 12-06-2022](day2/code-downloads/book-barn-12-06-2022.zip)
+- [Class Code - 12-06-2022](day2/code-downloads/book-barn-12-06-2022-fixed.zip)
 
 ## Day 3 
 - [MongoDB](https://www.mongodb.com/)
